@@ -1,0 +1,17 @@
+.container {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.description {
+  font-weight: 500;
+  font-size: 25px;
+  text-align: 'center';
+}
